@@ -1,2 +1,8 @@
 hi There
+<<<<<<< HEAD
 shubham sagar wajid
+=======
+
+
+shubham bhai lives in nagpur
+>>>>>>> firstbranch
